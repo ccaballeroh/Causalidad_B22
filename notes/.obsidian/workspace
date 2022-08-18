@@ -1,0 +1,132 @@
+{
+  "main": {
+    "id": "a86b697d747d51f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4caac514131f1c5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Landing Page.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4028716a94d8513b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6c96fafccda32a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9792897633497a64",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "60b7a0a032738164",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "[^1]",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "02e3b1e44a9c780d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 368.0107650756836
+  },
+  "right": {
+    "id": "bb69ff94fb06d98c",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6d297a184c0643c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4beeb9936768273a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Landing Page.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "459ca4c841957859",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "d8fb35e913c2291b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Landing Page.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 215.33331298828125,
+    "collapsed": true
+  },
+  "active": "e4caac514131f1c5",
+  "lastOpenFiles": [
+    "contents/assignments.md",
+    "admin/Welcome.md",
+    "admin/Calendar.md",
+    "admin/Syllabus.md",
+    "Landing Page.md",
+    "contents/Additional Resources.md",
+    "scratch.md",
+    "Reviews.md",
+    "essays/The Limitations of Opaque Learning Machines - Diana Jimenez Lopez.md",
+    "contents/Causal Inference Engine.md"
+  ]
+}

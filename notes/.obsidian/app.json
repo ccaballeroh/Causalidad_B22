@@ -1,0 +1,25 @@
+{
+  "obsidianCss": false,
+  "attachmentFolderPath": "_attachments",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "root",
+  "useMarkdownLinks": false,
+  "spellcheck": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": true,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "useTab": false,
+  "communityPluginSortOrder": "download",
+  "legacyEditor": false,
+  "livePreview": false,
+  "spellcheckLanguages": [
+    "es",
+    "en-US"
+  ]
+}
