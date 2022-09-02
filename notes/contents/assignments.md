@@ -30,5 +30,5 @@ Recommended reading: [Chapter 12 of Computational and Inferential Thinking](http
          - Chapter 5 of Harden, K. P. (2021). _The genetic lottery: Why DNA matters for social equality_. Princeton University Press.
         - Chapter 4 of Spiegelhalter, D. J. (2020). _The art of statistics: Learning from data_ (Paperback edition). Pelican, an imprint of Penguin Books.
 2. Prepare a 10-15 minutes presentation on your readings and personal impressions or thoughts and ideas.
-3. Upload your slides before to the deadline
+3. Upload your slides before the deadline
 4. On September 15, we will randomly pick who will be the presenters
