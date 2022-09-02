@@ -4,9 +4,9 @@
 |:--------:|:------|:------------|:-----------:|
 |1 |Aug-18| Intro and background | N/A |
 |2 |Aug-25| Background (cont.)| N/A |
-|3 |Sep-01|  |  |
-|4 |Sep-08|  |  |
-|5 |Sep-15|  |  |
+|3 |Sep-01| Review of Assignment 1  | N/A |
+|4 |Sep-08| Probability and Statistics Review | 1.1-1.3 |
+|5 |Sep-15| Presentations | [[assignments#Assignment 3]] |
 |6 |Sep-22|  |  |
 |7 |Sep-29|  |  |
 |8 |Oct-06|  |  |
