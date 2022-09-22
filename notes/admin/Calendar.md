@@ -7,8 +7,8 @@
 |3 |Sep-01| Review of Assignment 1  | N/A |
 |4 |Sep-08| Probability and Statistics Review | 1.1-1.3 |
 |5 |Sep-15| Presentations | [[assignments#Assignment 3]] |
-|6 |Sep-22|  |  |
-|7 |Sep-29|  |  |
+|6 |Sep-22| Probability and Statistics Review (cont.), Graphs, and SCM's | 1.3  1.5 |
+|7 |Sep-29| No session (CORE Congress) | N/A |
 |8 |Oct-06|  |  |
 |9 |Oct-13|  |  |
 |10|Oct-20|  |  |
