@@ -32,3 +32,17 @@ Recommended reading: [Chapter 12 of Computational and Inferential Thinking](http
 2. Prepare a 10-15 minutes presentation on your readings and personal impressions or thoughts and ideas.
 3. Upload your slides before the deadline
 4. On September 15, we will randomly pick who will be the presenters
+
+## Assignment 4
+
+**Deadline:** October 20, 2022 at 16:00
+
+Solve the following exercises:  
+  
+- Part a of Study Question 1.3.6 on page 19 of the Primer  
+- Parts a, b, c, d, and part i of e of Study Question 1.5.1 on pages 28 and 29 of the Primer  
+- Study Question 1.5.3 on page 32 of the Primer  
+  
+You should upload a scanned PDF with your solutions.  
+  
+The main point of this homework is for you to try to solve the exercises. We will go through the solution to the exercises next class.
