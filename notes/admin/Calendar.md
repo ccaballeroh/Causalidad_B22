@@ -9,9 +9,9 @@
 |5 |Sep-15| Presentations | [[assignments#Assignment 3]] |
 |6 |Sep-22| Probability and Statistics Review (cont.), Graphs, and SCM's | 1.3  1.5 |
 |7 |Sep-29| No session (CORE Congress) | N/A |
-|8 |Oct-06|  |  |
-|9 |Oct-13|  |  |
-|10|Oct-20|  |  |
+|8 |Oct-06| Graphs and Structural Causal Models | 1.4-1.5 |
+|9 |Oct-13| Graphical Models and Their Applications | 2 |
+|10|Oct-20| Interventions & The Adjustment Formula | 3.1-3.2 |
 |11|Oct-27|  |  | 
 |12|Nov-03|  |  |
 |13|Nov-10|  |  |
