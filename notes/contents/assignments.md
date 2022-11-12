@@ -46,3 +46,11 @@ Solve the following exercises:
 You should upload a scanned PDF with your solutions.  
   
 The main point of this homework is for you to try to solve the exercises. We will go through the solution to the exercises next class.
+
+## Assignment 5
+
+**Deadline:** November 17, 2022 at 16:00
+
+1. Read [[The Seven Tools of Causal Inference]] and [[Radical Empiricism and Machine Learning Research]]
+2. Write an essay (not minimum nor maximum extension) about what you found interesting, novel, points you disagree, etc.
+3. Upload your PDF to the Classroom platform.
