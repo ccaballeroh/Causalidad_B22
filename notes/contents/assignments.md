@@ -54,3 +54,12 @@ The main point of this homework is for you to try to solve the exercises. We wi
 1. Read [[The Seven Tools of Causal Inference]] and [[Radical Empiricism and Machine Learning Research]]
 2. Write an essay (not minimum nor maximum extension) about what you found interesting, novel, points you disagree, etc.
 3. Upload your PDF to the Classroom platform.
+
+## Assignment 6
+**Deadline:** November 24, 2022 at 16:00
+
+Solve the following:
+
+- Parts a), c) and e) of Study Question 3.8.1 on page 86 of the book  _Causal Inference in Statistics: A Primer_.  
+  
+You should upload a scanned PDF with your solutions.
