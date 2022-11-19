@@ -63,3 +63,11 @@ Solve the following:
 - Parts a), c) and e) of Study Question 3.8.1 on page 86 of the book  _Causal Inference in Statistics: A Primer_.  
   
 You should upload a scanned PDF with your solutions.
+
+## Assignment 7
+
+**Deadline:** November 24, 2022 at 16:00
+
+1. Read [[On the Interpretation of do(x)]].
+2. Write an essay about what you found interesting or even confusing!
+4. Upload your PDF to the Classroom platform.
