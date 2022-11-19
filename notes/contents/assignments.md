@@ -71,3 +71,11 @@ You should upload a scanned PDF with your solutions.
 1. Read [[On the Interpretation of do(x)]].
 2. Write an essay about what you found interesting or even confusing!
 4. Upload your PDF to the Classroom platform.
+
+## Assignment 8
+
+**Deadline:** December 1 , 2022 at 16:00
+
+1. Read [[Causal Models and Cognitive Development]].
+2. Write an essay (not minimum nor maximum extension) about what you found interesting, novel, points you disagree, etc.
+3. Upload your PDF to the Classroom platform.
