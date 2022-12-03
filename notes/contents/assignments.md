@@ -74,7 +74,7 @@ You should upload a scanned PDF with your solutions.
 
 ## Assignment 8
 
-**Deadline:** December 8 , 2022 at 16:00
+**Deadline:** December 9 , 2022 at 23:59
 
 1. Read [[Causal Models and Cognitive Development]].
 2. Write an essay (not minimum nor maximum extension) about what you found interesting, novel, points you disagree, etc.
